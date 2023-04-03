@@ -10,6 +10,7 @@ LICENSE: [MIT](./license.md)
 1. [Что такое GIT?](./intro.md)
 2. [git add](./add.md)
 3. [git commit](./commit.md)
+4. [git log](./log.md)
 
 
 ---
