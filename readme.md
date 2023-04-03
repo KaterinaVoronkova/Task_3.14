@@ -13,6 +13,9 @@ LICENSE: [MIT](./license.md)
 4. [git log](./log.md)
 5. [git status](./status.md)
 6. [git push](./push.md)
+7. [git tag](./tag.md)
+8. [git show](./show.md)
+9. [Дополнительная информация](./conclusion.md)
 
 
 ---
